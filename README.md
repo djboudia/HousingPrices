@@ -15,7 +15,8 @@ This file contains 4 classes that are used to transform the categorical features
 ```import TransformerClasses as tc```
 
 Alternatively, you can import each class separately:
-```from TransformerClasses import Cat2Val
+```
+from TransformerClasses import Cat2Val
 from TransformerClasses import Cat2Dummies
 from TransformerClasses import CombinationOHETransformer
 from TransformerClasses import SelectiveScaler
