@@ -18,7 +18,8 @@ Alternatively, you can import each class separately:
 ```from TransformerClasses import Cat2Val
 from TransformerClasses import Cat2Dummies
 from TransformerClasses import CombinationOHETransformer
-from TransformerClasses import SelectiveScaler```
+from TransformerClasses import SelectiveScaler
+```
 
 
 All 4 classes have the same basic methods: fit, transform and fit_transform and were developed according to the needs for addressing specific columns in different ways.
